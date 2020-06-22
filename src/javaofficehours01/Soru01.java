@@ -3,9 +3,9 @@ package javaofficehours01;
 public class Soru01 {
 	
 	public static void main(String[] args) {
-	 //boolean ve char
+	 //boolean ve char//GitHub dan merhaba
 	 //byte, short, int,long,double,float
-	//byte, short, int,long,double,float max ve min yazdýralým.	
+	//byte, short, int,long,double,float max ve min yazdÃ½ralÃ½m.	
 			
 		int intMax= Integer.MAX_VALUE;
 		System.out.println(intMax);
